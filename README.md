@@ -1,8 +1,14 @@
-####### how to access different version of Api
+## API Version Types
+
+### Technologies used
+    - Ruby 2.5.0
+    - sinatra
+
+### how to access different version of Api
 - Versioning Via Subdomain
 	- configuration before
-      - if  deploy this little application and point the two domain names api1.example.com and api2.example.com
-      - we need to add an external gem called sinatra-subdomain.
+      	- if  deploy this little application and point the two domain names api1.example.com and api2.example.com
+     	 - we need to add an external gem called sinatra-subdomain.
 	`gem install sinatra-subdomain`
 
 -  Versioning In The URL
