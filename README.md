@@ -3,7 +3,8 @@
 ### Technologies used
     - Ruby 2.5.0
     - sinatra
-
+### Run Any Script 
+	`ruby nameOfScript.rb`
 ### how to access different version of Api
 - Versioning Via Subdomain
 	- configuration before
